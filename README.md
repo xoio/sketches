@@ -6,5 +6,5 @@ with that in mind,
 
 
 * all of the built code will reside here for display. 
-* all of the source code will reside [on gitlab](https://gitlab.com/sortofsleepy/sketches)
+* all of the source code will reside [on gitlab](https://gitlab.com/sortofsleepy/sketches) along with some additional C++ stuff
 * the reasoon everything isn't just on gitlab is because at the moment, they don't appear to support gzipping or https for their pages.
